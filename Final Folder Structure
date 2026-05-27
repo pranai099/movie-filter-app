@@ -1,0 +1,14 @@
+movie-filter-app/
+│
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── MovieCard.js
+│   │   └── MovieCard.css
+│   │
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+│
+├── package.json
+└── README.md
